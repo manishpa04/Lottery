@@ -1,0 +1,6 @@
+@LotteryGnerator_HostAddress = http://localhost:5297
+
+GET {{LotteryGnerator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
